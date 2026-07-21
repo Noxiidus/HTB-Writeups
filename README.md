@@ -9,6 +9,7 @@ not on spoiling the flags.
 | Machine | OS | Difficulty | Key techniques |
 |---------|----|-----------|----------------|
 | [Nexus](Nexus/) | Linux | Medium | Git history credential leak · Krayin CRM file-upload RCE · SSH password reuse · Gitea template-sync path traversal (root) |
+| [Orion](Orion/) | Linux | Easy | Craft CMS pre-auth RCE (CVE-2025-32432) · `.env` DB creds · bcrypt crack + password reuse · telnetd `-f` auth bypass (CVE-2026-24061, root) |
 
 ---
 
