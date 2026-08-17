@@ -1,8 +1,14 @@
 # Hack The Box — Writeups
 
-Personal writeups for retired Hack The Box machines. Flags are redacted per the
-HTB content policy — these notes focus on the methodology and the vulnerabilities,
-not on spoiling the flags.
+Personal writeups for retired Hack The Box machines and completion summaries for
+Pro Labs. Flags are redacted per the HTB content policy — these notes focus on the
+methodology and the vulnerabilities, not on spoiling the flags.
+
+## Pro Labs
+
+| Lab | Type | Key techniques |
+|-----|------|----------------|
+| [Mythical](Mythical/) | Mini Pro Lab — AD | Mythic C2 · ADCS abuse · MSSQL lateral movement · Token impersonation · WDigest credential extraction |
 
 ## Machines
 
