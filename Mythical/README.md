@@ -4,6 +4,8 @@
 > **Status:** Active — this is a **spoiler-free completion summary**, not a walkthrough.
 > Per HTB content policy, no flags, specific attack paths, or step-by-step solutions are disclosed.
 
+![Mythical — Certificate of Completion](certificate.jpg)
+
 Mythical is an assumed-breach Active Directory lab centered around **Mythic C2** operations. You
 start with an operational C2 server and existing agent callbacks, then work through a multi-machine
 Windows domain to capture three flags across different network segments.
